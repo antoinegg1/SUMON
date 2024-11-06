@@ -1,2 +1,2 @@
 # SUMON
-一个基于sumo简化的交通模拟程序，支持与sumo相同格式的地图/车流的读取
+A simplified traffic simulation program based on [SUMO](https://sumo.dlr.de/docs/index.html), SUMON supports reading maps and traffic flows in the same format as SUMO. While retaining SUMO's core logic, it adds interfaces for reinforcement learning and multi-agent training.
